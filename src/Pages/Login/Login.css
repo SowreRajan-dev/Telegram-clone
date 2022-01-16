@@ -1,0 +1,24 @@
+.centerBox {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.upperCenterPart {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.upperTexts {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.confirmationPara {
+  margin-top: 20px;
+  color: #aaaaaa;
+}
